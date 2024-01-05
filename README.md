@@ -22,7 +22,7 @@ Chức năng **ADMIN**:
 + username: Admin
 + password: Admin
 
-## Screenshots
+## Database
 Sử dụng XAMPP để kết nối database qua SQL và cấu hình máy chủ Apache, phục vụ chạy thử web trên máy chủ local
 
 XAMPP là một bộ công cụ phát triển ứng dụng web mã nguồn mở được sử dụng phổ biến để tạo môi trường phát triển web cục bộ trên máy tính cá nhân. Bạn có thể sử dụng XAMPP để cài đặt và chạy máy chủ web Apache, cơ sở dữ liệu MySQL và phiên bản PHP trên máy tính của mình để phát triển và thử nghiệm các ứng dụng web.
@@ -46,7 +46,7 @@ Quản lý cơ sở dữ liệu: Để quản lý cơ sở dữ liệu MySQL, b�
 Dừng XAMPP: Khi bạn đã hoàn thành công việc phát triển và thử nghiệm ứng dụng web, bạn có thể dừng XAMPP bằng cách nhấp vào nút "Stop" (hoặc "Stop" bên cạnh dòng "Apache" và "MySQL") trong XAMPP Control Panel.
 
 Lưu ý Đảm bảo rằng XAMPP đang chạy khi bạn muốn phát triển hoặc chạy các ứng dụng web cục bộ trên máy tính của mình. Hãy cẩn thận khi làm việc với các tệp tin và cơ sở dữ liệu trong XAMPP, đặc biệt là trên môi trường phát triển và không được sử dụng cho môi trường sản xuất. Xem configure trong SQL của Xampp có giống với phần db_connection.php không để điều chỉnh lại
-### Cơ bản
+
 Sử dụng XAMPP để kết nối database qua SQL và cấu hình máy chủ Apache, phục vụ chạy thử web trên máy chủ local
 
 XAMPP là một bộ công cụ phát triển ứng dụng web mã nguồn mở được sử dụng phổ biến để tạo môi trường phát triển web cục bộ trên máy tính cá nhân. Bạn có thể sử dụng XAMPP để cài đặt và chạy máy chủ web Apache, cơ sở dữ liệu MySQL và phiên bản PHP trên máy tính của mình để phát triển và thử nghiệm các ứng dụng web.
