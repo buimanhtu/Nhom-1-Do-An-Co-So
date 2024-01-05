@@ -1,8 +1,8 @@
 Sử dụng XAMPP để kết nối database qua SQL và cấu hình máy chủ Apache, phục vụ chạy thử web trên máy chủ local
 
-Hướng dẫn sử dụng XAMPP XAMPP là một bộ công cụ phát triển ứng dụng web mã nguồn mở được sử dụng phổ biến để tạo môi trường phát triển web cục bộ trên máy tính cá nhân. Bạn có thể sử dụng XAMPP để cài đặt và chạy máy chủ web Apache, cơ sở dữ liệu MySQL và phiên bản PHP trên máy tính của mình để phát triển và thử nghiệm các ứng dụng web.
+XAMPP là một bộ công cụ phát triển ứng dụng web mã nguồn mở được sử dụng phổ biến để tạo môi trường phát triển web cục bộ trên máy tính cá nhân. Bạn có thể sử dụng XAMPP để cài đặt và chạy máy chủ web Apache, cơ sở dữ liệu MySQL và phiên bản PHP trên máy tính của mình để phát triển và thử nghiệm các ứng dụng web.
 
-Cài đặt XAMPP Tải XAMPP: Truy cập vào trang web chính thức của XAMPP (https://www.apachefriends.org/) và tải phiên bản XAMPP phù hợp với hệ điều hành của bạn.
+Tải XAMPP: Truy cập vào trang web chính thức của XAMPP (https://www.apachefriends.org/) và tải phiên bản XAMPP phù hợp với hệ điều hành của bạn.
 
 Cài đặt XAMPP: Chạy tệp tin cài đặt và làm theo các bước hướng dẫn trên màn hình để cài đặt XAMPP. Bạn có thể chọn cài đặt các thành phần như Apache, MySQL, PHP và phpMyAdmin.
 
