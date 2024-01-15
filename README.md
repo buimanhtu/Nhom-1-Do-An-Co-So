@@ -1,6 +1,6 @@
-# DoAn_Web
+# DoAnCoSo_Web
 
-Đồ án môn web , web tĩnh, đề tài trang web bán điện thoại.
+Đồ án cơ sở thiết kế  web tĩnh, đề tài trang web bán điện thoại.
 
 Giao diện thân thiện, dễ sử dụng, chức năng khá đầy đủ.
 
