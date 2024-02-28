@@ -110,7 +110,7 @@ var list_products = [{
         "ram": "6 GB",
         "rom": "64 GB",
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3500 mAh, có sạc nhanh"
+        "battery": "3500 mAh, có sạc nhanh chóng"
     },
     "masp": "Sam1"
 }, {
